@@ -1,0 +1,13 @@
+name = "Countries"
+nameId = "countries"
+categories = ["email"]
+version = "0.0.1-alpha"
+logo = "https://raw.githubusercontent.com/BusinessQL/businessql-app-countries/main/images/logo.svg"
+
+[settings]
+
+[developer]
+nameId = "businessql"
+
+[theme.colors]
+primary = "#1A73E8"

@@ -1,2 +1,1 @@
-# businessql-app-countries
-Countries - BusinessQL App
+# Countries - BusinessQL App
